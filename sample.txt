@@ -1,0 +1,4 @@
+Hello, this is a test file.
+Learning Python file handling is fun!
+Did you know? The first cars didn’t have steering wheels; they used a lever called a tiller instead.
+Fun fact: The Subaru WRX STI can go from 0 to 60 mph in just 4.4 seconds!
